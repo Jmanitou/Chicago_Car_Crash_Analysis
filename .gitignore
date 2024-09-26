@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+data/Traffic_Crashes_People.csv
+data/Traffic_Crashes_People.zip
+data/Traffic_Crashes_Vehicles.csv
+data/Traffic_Crashes_Vehicles.zip
+data/Final_Data.csv
