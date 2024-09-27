@@ -4,5 +4,12 @@ data/Traffic_Crashes_People.csv
 data/Traffic_Crashes_People.zip
 data/Traffic_Crashes_Vehicles.csv
 data/Traffic_Crashes_Vehicles.zip
+data/Traffic_Crashes_Crashes.csv
+data/Traffic_Crashes_Crashes.zip
 data/Final_Data.csv
 data/People_Sample.csv
+
+data/Bicycle_Accidents.zip
+data/Pedestrian_Accidents.zip
+data/Bicycle_Accidents.csv
+data/Pedestrian_Accidents.csv
