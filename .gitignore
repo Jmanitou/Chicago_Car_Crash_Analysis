@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.DS_Store
+data/.DS_Store
+data/Final_Data/
 data/Traffic_Crashes_People.csv
 data/Traffic_Crashes_People.zip
 data/Traffic_Crashes_Vehicles.csv
