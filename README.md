@@ -35,6 +35,7 @@ Car crash and vehicle accident data was sourced from the Chicago Data Portal. It
 
 Data collection began in 2015, but was only adopted by all Chicago district police departments in 2017. The most recent data entry was from September 26, 2024.
 
+To run the file, you will need to extract the Final_Data.zip into the data folder.
 # Visualizations
 
 
