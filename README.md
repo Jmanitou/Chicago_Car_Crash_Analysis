@@ -16,8 +16,7 @@ Here is our [Presentation](https://docs.google.com/presentation/d/1VDMkqF6xq5KMh
 │   ├── Final_Data.csv
 │   └── Final_Data.zip
 ├── images
-│   ├──
-│   ├──
+│   ├── chicago_crash_map.png
 ├── .gitignore
 ├── README.md
 ├── Chicago_Crash_Data.pdf
@@ -37,7 +36,7 @@ Data collection began in 2015, but was only adopted by all Chicago district poli
 
 To run the file, you will need to extract the Final_Data.zip into the data folder.
 # Visualizations
-
+![chicago_crash_map](images/chicago_crash_map.png)
 
 # Conclusion
 
