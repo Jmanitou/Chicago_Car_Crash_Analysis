@@ -36,7 +36,14 @@ Data collection began in 2015, but was only adopted by all Chicago district poli
 
 To run the file, you will need to extract the Final_Data.zip into the data folder.
 # Visualizations
-![chicago_crash_map](images/chicago_crash_map.png)
+![locations of fatal crashes: most are in low-income areas](images/chicago_crash_map.png)
+Most of the fatal accidents were concentrated in low-income areas of Chicago. 
+
+<img width="393" alt="PSA for Slow Down: Save Lives" src="https://github.com/user-attachments/assets/2d40576c-44d2-4704-bd95-d00571be2aa3">
+Instagram post advocating for drivers to slow down and save lives.
+
+<img width="945" alt="PSA for Drive Solo: Drive Safe" src="https://github.com/user-attachments/assets/b36ab496-bc94-469b-b1c9-603dd4c9f5a7">
+Large Poster reccomending drving solo. 
 
 # Conclusion
 
