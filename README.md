@@ -4,7 +4,7 @@ Miles Cumiskey: https://github.com/mcumiskey
 
 Joey Barilla: https://github.com/JoeyBarlia
 
-Jackson: https://github.com/Jmanitou
+Jackson Robbins: https://github.com/Jmanitou
 
 
 # Overview
