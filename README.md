@@ -46,7 +46,7 @@ Instagram post advocating for drivers to slow down and save lives.
 
 <img width="945" alt="PSA for Drive Solo: Drive Safe" src="https://github.com/user-attachments/assets/b36ab496-bc94-469b-b1c9-603dd4c9f5a7">
 
-Large Poster reccomending drving solo. 
+Large Poster recommending drving solo. 
 
 # Conclusion
 
